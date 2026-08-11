@@ -1,0 +1,4 @@
+interface:
+  display_name: "去过度防御写作"
+  short_description: "去除投稿前论文中的过度防御表达，同时保持证据边界与学术准确性"
+  default_prompt: "使用 $reduce-defensive-academic-writing 对一篇投稿前学术论文进行完整审阅与修订，删除无效防御并保留证据边界。"
